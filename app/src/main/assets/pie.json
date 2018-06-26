@@ -1,0 +1,40 @@
+{
+
+    "team": [
+      {
+        "name": "India",
+        "matches": 100,
+        "colour": "#0F8BFE"
+      },
+      {
+        "name": "RSA",
+        "matches": 50,
+        "colour": "#05F52D"
+      },
+      {
+        "name": "Australia",
+        "matches": 20,
+        "colour": "#F8ED06"
+      },
+      {
+        "name": "Pakistan",
+        "matches": 60,
+        "colour": "#1B4702"
+      },
+      {
+        "name": "England",
+        "matches": 80,
+        "colour": "#0611F8"
+      },
+      {
+        "name": "West Indies",
+        "matches": 50,
+        "colour": "#510602"
+      },
+      {
+        "name": " Indies",
+        "matches": 50,
+        "colour": "#850602"
+      }
+    ]
+  }

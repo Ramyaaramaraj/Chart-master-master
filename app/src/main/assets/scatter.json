@@ -1,0 +1,64 @@
+{
+  "xaxisplot": [
+    {
+      "xaxis_point": "1996"
+    },
+    {
+      "xaxis_point": "2019"
+    },
+    {
+      "xaxis_point": "2010"
+    },
+    {
+      "xaxis_point": "2003"
+    },
+    {
+      "xaxis_point": "2015"
+    }
+  ],
+  "yaxisplot": [
+    {
+      "yaxis_points": "30"
+    },
+    {
+      "yaxis_points": "80"
+    },
+    {
+      "yaxis_points": "200"
+    },
+    {
+      "yaxis_points": "99"
+    },
+    {
+      "yaxis_points": "150"
+    }
+  ],
+  "label": [
+    {
+      "title": "Year vs Profit"
+    },
+    {
+      "title": "Year"
+    },
+    {
+      "title": "Profit"
+    }
+  ],
+  "colours": [
+    {
+      "color": "#0F8BFE"
+    },
+    {
+      "color": "#05F52D"
+    },
+    {
+      "color": "#F8ED06"
+    },
+    {
+      "color": "#1B4702"
+    },
+    {
+      "color": "#510602"
+    }
+  ]
+}

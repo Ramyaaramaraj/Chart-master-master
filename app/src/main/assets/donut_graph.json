@@ -1,0 +1,31 @@
+{
+  "width": 200
+   ,
+      "field": [
+        {
+          "field_name": "Design",
+          "field_value": 200,
+          "field_color": "#BAF0AD"
+        },
+        {
+          "field_name": "AI",
+          "field_value": 300,
+          "field_color": "#E7E247"
+        },
+        {
+          "field_name": "Machine Learning",
+          "field_value": 600,
+          "field_color": "#8DDBFF"
+        },
+        {
+          "field_name": "IOT",
+          "field_value": 400,
+          "field_color": "#FFBCBF"
+        },
+        {
+          "field_name": "Apple",
+          "field_value": 500,
+          "field_color": "#E7E247"
+        }
+      ]
+  }
